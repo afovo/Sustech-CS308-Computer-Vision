@@ -1,2 +1,2 @@
 # Sustech CS308 Computer Vision
- reviewing outlines for this course
+assignments, final project and reviewing outlines
